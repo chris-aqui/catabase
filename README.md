@@ -1,2 +1,2 @@
-# catabase-backend
+# catabase
 #UseDigitalForGood Capital One Hackathon
